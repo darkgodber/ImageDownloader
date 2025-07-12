@@ -1,0 +1,5 @@
+C:\Users\darkgodber\Desktop\ImageDownloader\ImageDownloader\bin\Release\net6.0-windows\app.publish\ImageDownloader.exe
+C:\Users\darkgodber\Desktop\ImageDownloader\ImageDownloader\bin\Release\net6.0-windows\app.publish\ImageDownloader.dll
+C:\Users\darkgodber\Desktop\ImageDownloader\ImageDownloader\bin\Release\net6.0-windows\app.publish\ImageDownloader.deps.json
+C:\Users\darkgodber\Desktop\ImageDownloader\ImageDownloader\bin\Release\net6.0-windows\app.publish\ImageDownloader.runtimeconfig.json
+C:\Users\darkgodber\Desktop\ImageDownloader\ImageDownloader\bin\Release\net6.0-windows\app.publish\ImageDownloader.pdb

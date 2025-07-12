@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|c:\\users\\darkgodber\\desktop\\imagedownloader\\imagedownloader\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|c:\\users\\darkgodber\\desktop\\imagedownloader\\imagedownloader\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|c:\\users\\darkgodber\\desktop\\imagedownloader\\imagedownloader\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|c:\\users\\darkgodber\\desktop\\imagedownloader\\imagedownloader\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|solutionrelative:viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|c:\\users\\darkgodber\\desktop\\imagedownloader\\imagedownloader\\viewmodels\\imageitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|solutionrelative:viewmodels\\imageitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|c:\\users\\darkgodber\\desktop\\imagedownloader\\imagedownloader\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|c:\\users\\darkgodber\\desktop\\imagedownloader\\imagedownloader\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|solutionrelative:viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|c:\\users\\darkgodber\\desktop\\imagedownloader\\imagedownloader\\services\\imagedownloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|solutionrelative:services\\imagedownloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|c:\\users\\darkgodber\\desktop\\imagedownloader\\imagedownloader\\services\\iimagedownloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|solutionrelative:services\\iimagedownloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|c:\\users\\darkgodber\\desktop\\imagedownloader\\imagedownloader\\models\\imageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|solutionrelative:models\\imageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|c:\\users\\darkgodber\\desktop\\imagedownloader\\imagedownloader\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|c:\\users\\darkgodber\\desktop\\imagedownloader\\imagedownloader\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\temp\\.vsdbgsrc\\663eae741a204ff437a3c7755147b6411af41c60c876629ecb38a7de166e1dc1\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\temp\\.vsdbgsrc\\993bcf049a2f3befc5f0f5536758c8ae5c426ba70a22150e328f08628647f12d\\PropertyPathWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\temp\\.vsdbgsrc\\d498bf5cbf016a5efdb400a121800957635e0d0b034e73e35cb6157ee74399c0\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|c:\\users\\darkgodber\\desktop\\imagedownloader\\imagedownloader\\imagedownloader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64966779-0FAC-4CE4-9E1E-E21AB2A1B5C8}|ImageDownloader.csproj|solutionrelative:imagedownloader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:32:15.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-10T16:32:18.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImageItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\ViewModels\\ImageItemViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ImageItemViewModel.cs",
+              "ToolTip": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\ViewModels\\ImageItemViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ImageItemViewModel.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAqwCQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:06:58.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T01:03:09.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwE8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:06:29.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:07:02.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:06:53.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImageDownloadService.cs",
+              "DocumentMoniker": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\Services\\ImageDownloadService.cs",
+              "RelativeDocumentMoniker": "Services\\ImageDownloadService.cs",
+              "ToolTip": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\Services\\ImageDownloadService.cs",
+              "RelativeToolTip": "Services\\ImageDownloadService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:29:53.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IImageDownloadService.cs",
+              "DocumentMoniker": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\Services\\IImageDownloadService.cs",
+              "RelativeDocumentMoniker": "Services\\IImageDownloadService.cs",
+              "ToolTip": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\Services\\IImageDownloadService.cs",
+              "RelativeToolTip": "Services\\IImageDownloadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:20:08.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImageItem.cs",
+              "DocumentMoniker": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\Models\\ImageItem.cs",
+              "RelativeDocumentMoniker": "Models\\ImageItem.cs",
+              "ToolTip": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\Models\\ImageItem.cs",
+              "RelativeToolTip": "Models\\ImageItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:06:09.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T01:26:53.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-11T10:38:10.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PropertyPathWorker.cs",
+              "DocumentMoniker": "B:\\temp\\.vsdbgsrc\\993bcf049a2f3befc5f0f5536758c8ae5c426ba70a22150e328f08628647f12d\\PropertyPathWorker.cs",
+              "ToolTip": "B:\\temp\\.vsdbgsrc\\993bcf049a2f3befc5f0f5536758c8ae5c426ba70a22150e328f08628647f12d\\PropertyPathWorker.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAJkEAAAAAAAAAAAYwLIEAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:38:39.47Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "B:\\temp\\.vsdbgsrc\\663eae741a204ff437a3c7755147b6411af41c60c876629ecb38a7de166e1dc1\\XamlReader.cs",
+              "ToolTip": "B:\\temp\\.vsdbgsrc\\663eae741a204ff437a3c7755147b6411af41c60c876629ecb38a7de166e1dc1\\XamlReader.cs",
+              "ViewState": "AgIAALsBAAAAAAAAAAAAAMoBAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:35:48.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "B:\\temp\\.vsdbgsrc\\d498bf5cbf016a5efdb400a121800957635e0d0b034e73e35cb6157ee74399c0\\ResourcePart.cs",
+              "ToolTip": "B:\\temp\\.vsdbgsrc\\d498bf5cbf016a5efdb400a121800957635e0d0b034e73e35cb6157ee74399c0\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:33:22.745Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ImageDownloader.csproj",
+              "DocumentMoniker": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\ImageDownloader.csproj",
+              "RelativeDocumentMoniker": "ImageDownloader.csproj",
+              "ToolTip": "C:\\Users\\darkgodber\\Desktop\\ImageDownloader\\ImageDownloader\\ImageDownloader.csproj",
+              "RelativeToolTip": "ImageDownloader.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-11T10:03:00.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

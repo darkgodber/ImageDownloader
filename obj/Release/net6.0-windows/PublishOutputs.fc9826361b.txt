@@ -1,0 +1,5 @@
+C:\Users\darkgodber\Desktop\ImageDownloader\exe\ImageDownloader.exe
+C:\Users\darkgodber\Desktop\ImageDownloader\exe\ImageDownloader.dll
+C:\Users\darkgodber\Desktop\ImageDownloader\exe\ImageDownloader.deps.json
+C:\Users\darkgodber\Desktop\ImageDownloader\exe\ImageDownloader.runtimeconfig.json
+C:\Users\darkgodber\Desktop\ImageDownloader\exe\ImageDownloader.pdb
